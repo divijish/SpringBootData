@@ -1,4 +1,4 @@
-package io.springboot.start.Entity;
+package io.springboot.start;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

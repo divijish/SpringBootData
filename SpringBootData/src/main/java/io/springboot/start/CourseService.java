@@ -1,4 +1,4 @@
-package io.springboot.start.Service;
+package io.springboot.start;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,7 +7,6 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 import io.springboot.start.Entity.Course;
-import io.springboot.start.Entity.Topic;
 
 @Service
 public class CourseService {
